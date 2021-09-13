@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 
 <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/> GitHub Stats
 
-<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnnymeneses&layout=compact&theme=radical&lang_count=10" /></p>
-<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=johnnymeneses&count_private=true&theme=radical&show_icons=true" /></p>
+<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnnymeneses&layout=compact&theme=neon-palenight&lang_count=10" /></p>
+<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=johnnymeneses&count_private=true&theme=neon-palenight&show_icons=true" /></p>
 <p align="left"><img src="https://github-readme-streak-stats.herokuapp.com?user=johnnymeneses&theme=neon-palenight&hide_border=true" /></p>
