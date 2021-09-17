@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 
 
 
-```
+
 [![Isabella Riquetti Git Lab](https://combinedcodingstats.azurewebsites.net/gitlab/YOURGITLABUSERNAME?platform=github&theme=dark)](https://github.com/johnnymeneses)
-```
+
 ![image](https://user-images.githubusercontent.com/19557419/133847218-fcab6a28-d696-48b7-9d45-2f16136a6db8.png)
 
 
