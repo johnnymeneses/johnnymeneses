@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Johnny Meneses
 
-:brazil:
+:us: :brazil:
 
 
 
