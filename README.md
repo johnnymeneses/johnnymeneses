@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ... 
 -->
 
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/johnny-meneses-84520419/)
+
 
 <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/> GitHub Stats
 
