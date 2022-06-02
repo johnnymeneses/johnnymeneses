@@ -3,7 +3,6 @@
 :us: :brazil:
 
 
-
 <!--
 **johnnymeneses/johnnymeneses** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -22,7 +21,7 @@ Here are some ideas to get you started:
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/johnny-meneses-84520419/)
 
 
-<img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/> GitHub Stats
+
 
 <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnnymeneses&layout=compact&theme=neon-palenight&lang_count=10" /></p>
 <p align="left"><img src="https://github-readme-stats.vercel.app/api?username=johnnymeneses&count_private=true&theme=neon-palenight&show_icons=true" /></p>
