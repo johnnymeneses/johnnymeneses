@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... 
 
+-->
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/johnny-meneses-84520419/)
 
@@ -31,4 +32,4 @@ Here are some ideas to get you started:
 <p align="left"><img src="https://github-readme-stats.vercel.app/api?username=johnnymeneses&count_private=true&theme=neon-palenight&show_icons=true" /></p>
 <p align="left"><img src="https://github-readme-streak-stats.herokuapp.com?user=johnnymeneses&theme=neon-palenight&hide_border=true" /></p>
 
--->
+
